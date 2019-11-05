@@ -177,6 +177,10 @@ return [
 
     ],
 
+    'dev-providers' => [
+        Laralib\L5scaffold\GeneratorsServiceProvider::class,
+    ],
+
     /*
     |--------------------------------------------------------------------------
     | Class Aliases
